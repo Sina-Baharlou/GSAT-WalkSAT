@@ -50,6 +50,9 @@ The results of the random initialization experiment on different sets are shown 
 One of the results for the different heuristic methods are shown in the following table (UF20-91 dataset, 20 variables, 91 clauses, 100 instances).
 <p align="center"><img src="docs/table2.png" width="640" title="The results of random initialization experiment."></p>
 
+### Adviser
+Prof. Paolo Liberatore
+
 ### How to Run 
 You can use the prebuilt binary file or compile the source files using the make command.
 To run the benchmarks, choose the heuristic algorithm (by uncommentig the specified algorithm in the batch files), and run the batch file using the shell.
